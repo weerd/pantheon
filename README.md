@@ -1,4 +1,4 @@
-# Pantheon
+<h1 align="center">Pantheon</h1>
 
 🏛  A collection of packages
 
