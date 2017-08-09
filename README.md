@@ -3,4 +3,5 @@
 🏛  A collection of packages
 
 - ☀️ [Apollo Pages](https://github.com/weerd/apollo-pages)
-- 🛠 [Vulcan CRUD](https://github.com/weerd/vulcan-crud)
+- 📋 [Veritas Logs](https://github.com/weerd/veritas-logs) [still in development]
+- 🛠 [Vulcan CRUD](https://github.com/weerd/vulcan-crud) [still in development]
